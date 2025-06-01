@@ -1,3 +1,5 @@
+# ATENÇÃO O PROJETO AINDA NÃO ESTÁ PRONTO E CONTEM ERROS
+
 # 🌎 Intelligent Disaster Monitor (Google Gemini Edition)
 
 ### 🔍 Inteligência Artificial multiagente para monitoramento em tempo real de riscos naturais e impactos econômicos, utilizando Google Gemini.
