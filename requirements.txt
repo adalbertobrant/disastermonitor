@@ -1,0 +1,12 @@
+# requirements.txt
+aiohttp==3.12.6
+beautifulsoup4==4.13.4
+google-generativeai==0.8.5
+pandas==2.2.3
+python-dotenv==1.1.0
+requests==2.32.3
+selenium==4.33.0
+streamlit==1.45.1
+webdriver-manager==4.0.2 # Opcional: descomente se quiser que o Selenium gerencie o chromedriver automaticamente
+# (No Dockerfile, o chromedriver é instalado manualmente, então webdriver-manager não é estritamente necessário lá)
+
