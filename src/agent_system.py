@@ -142,7 +142,7 @@ class IntelligentMonitor:
             # Decide if this is critical enough to halt or just log
 
         # Send Telegram Alert
-        alert_message = f"🚨 **New Disaster Monitor Scenario** 🚨\n\n**Economic Recommendation:**\n{recommendation[:800]}...\n\n[🔍 Check dashboard for full details](https://seusite.com/dashboard)"
+        alert_message = f"🚨 **New Disaster Monitor Scenario** 🚨\n\n**Economic Recommendation:**\n{recommendation[:800]}...\n\n[🔍 Check dashboard for full details](https://disastermon.streamlit.app)"
         send_telegram_alert(alert_message)
         
         logger.info("Monitoring cycle complete.")
