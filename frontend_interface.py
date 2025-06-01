@@ -39,7 +39,7 @@ except ImportError:
 # === UI Title and other elements AFTER set_page_config ===
 st.title("🌎 Intelligent Disaster Monitor Dashboard")
 st.caption("Utilizando Google Gemini para análise e recomendações.")
-st.warning("DISCLAIMER -> Dados apenas educativos sem validade para compra ou venda dentro do mercado financeiro. Consulte sua corretora ou banco.")
+st.caption("DISCLAIMER -> Dados apenas educativos sem validade para compra ou venda dentro do mercado financeiro. Consulte sua corretora ou banco.")
 
 # Exibe o aviso sobre o DB_PATH aqui, se houver
 if _db_path_warning_message:
