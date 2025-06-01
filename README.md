@@ -1,4 +1,4 @@
-# ATENÇÃO O PROJETO AINDA NÃO ESTÁ PRONTO E CONTEM ERROS
+# ATENÇÃO O PROJETO AINDA NÃO ESTÁ PRONTO E POSSUI ERROS
 
 # 🌎 Intelligent Disaster Monitor (Google Gemini Edition)
 
