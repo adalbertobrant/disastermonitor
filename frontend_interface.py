@@ -181,3 +181,4 @@ if _db_path_warning_message: # Adiciona o aviso na sidebar também
 
 if st.sidebar.button("Recarregar Dados"):
     st.rerun() # <<< CORREÇÃO AQUI
+st.warning("DISCLAIMER -> Dados apenas educativos sem validade para compra ou venda dentro do mercado financeiro. Consulte sua corretora ou banco.")
